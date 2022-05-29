@@ -1,7 +1,7 @@
 # Welcome to The Seed Link Future
 
 ```markdown
-![The Seed]([src](https://github.com/whx-prog/The-Seed-Link-Future/blob/main/Image_Seed.jpg))
+![The Seed]([https://github.com/whx-prog/The-Seed-Link-Future/blob/main/Image_Seed.jpg])
 ```
 
 .<div align=center><img src="https://github.com/whx-prog/The-Seed-Link-Future/blob/main/Image_Seed.jpg" width="450" height="300" /></div>.<div align=center>  The Seed </div>.<div align=center>![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
